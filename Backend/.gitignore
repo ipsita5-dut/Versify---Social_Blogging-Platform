@@ -1,0 +1,5 @@
+# Node modules - do not track dependencies
+/node_modules
+
+# Environment variables - keep secrets out of Git
+.env
